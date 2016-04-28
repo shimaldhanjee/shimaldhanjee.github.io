@@ -1,0 +1,27 @@
+body {
+	font-family: 'Dosis', sans-serif;
+}
+
+span {
+color: red; font-size: 120px;
+}
+
+div {
+	width: 501px;
+	height: 501px;
+	background-color: orange
+}
+
+h1 {
+	font-weight: 200px;
+	font-size: 50px
+}
+
+p	{
+
+	color: green
+}
+
+a {
+	color: pink
+}
